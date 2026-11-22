@@ -1,4 +1,4 @@
-# Hey, I'm Jana 👋
+# Heyy, I'm Jana 
 
 ### Software Engineering Student | AI & ML Enthusiast | Developer
 
@@ -21,29 +21,6 @@ I like exploring new technologies, creating applications and tools, developing s
 - Always learning, experimenting and improving
 
 
-### 02. Experiments & Side Projects
-
-A collection of smaller applications, programming experiments, and creative projects.
-
-I enjoy trying out new ideas, exploring different technologies, and building things simply because they seem interesting.
-
-**Tech stack:** JavaScript · Python · Java
-
----
-
-## `$ current-focus`
-
-```text
-Currently exploring:
-├── Artificial Intelligence
-├── Machine Learning
-├── Software Engineering
-├── JavaScript Game Development
-└── Creative Side Projects
-```
-
----
-
 ## `$ github --stats`
 
 <p align="center">
@@ -55,15 +32,6 @@ Currently exploring:
   <img src="https://streak-stats.demolab.com?user=stojkovskaj01&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </p>
 
----
-
-## `$ contribution --visualize`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stojkovskaj01/stojkovskaj01/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-</p>
-
----
 
 ## `$ connect --with-me`
 
