@@ -51,42 +51,8 @@ I like exploring new technologies, creating applications and tools, developing s
   <img src="https://img.shields.io/badge/Game_Development-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 </p>
 
----
 
-## `$ ls ./featured-projects`
-
-### 01. LEAP AI Analyst
-
-An AI-powered desktop application designed to analyze energy data from LEAP (Low Emissions Analysis Platform).
-
-**Tech stack:** Python · SQLite · Ollama · Tkinter · LEAP
-
-- Processes energy data exported from LEAP reports.
-- Stores and organizes data in a local SQLite database.
-- Provides AI-assisted data analysis and natural language queries.
-- Supports reports, charts, and what-if scenario analysis.
-
-[View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_LEAP_AI_ANALYST_REPO)
-
----
-
-### 02. TypeFlow — Find Your Flow
-
-A modern blind typing web application focused on improving typing speed, accuracy, and overall typing experience.
-
-**Tech stack:** HTML · CSS · JavaScript
-
-- Interactive typing experience.
-- Real-time typing accuracy and speed tracking.
-- Multiple typing passages.
-- Session history and progress tracking.
-- Customizable themes and sound settings.
-
-[View Repository](https://github.com/YOUR_GITHUB_USERNAME/YOUR_TYPEFLOW_REPO)
-
----
-
-### 03. More Experiments & Side Projects
+### 02. Experiments & Side Projects
 
 A collection of smaller applications, programming experiments, and creative projects.
 
@@ -112,12 +78,12 @@ Currently exploring:
 ## `$ github --stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=stojkovskaj01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stojkovskaj01&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=stojkovskaj01&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 ---
@@ -125,7 +91,7 @@ Currently exploring:
 ## `$ contribution --visualize`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/stojkovskaj01/stojkovskaj01/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
@@ -133,15 +99,15 @@ Currently exploring:
 ## `$ connect --with-me`
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/stojkovskaj01">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <!-- <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
+  </a> -->
 </p>
 
 ---
