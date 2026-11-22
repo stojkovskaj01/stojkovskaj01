@@ -2,9 +2,9 @@
 
 ### Software Engineering Student | AI & ML Enthusiast | Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=false&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence+%26+ML.;Building+apps%2C+tools%2C+and+experiments.;Creating+small+games+with+JavaScript.;Turning+ideas+into+working+projects." alt="Typing SVG" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E5C9A8&center=false&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+code.;Exploring+AI+%26+Machine+Learning.;Building+apps%2C+games+%26+experiments.;One+project+at+a+time." alt="Typing SVG" />
+
 
 ## `$ whoami`
 
