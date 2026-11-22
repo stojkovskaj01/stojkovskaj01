@@ -21,16 +21,15 @@ I like exploring new technologies, creating applications and tools, developing s
 - Always learning, experimenting and improving
 
 
-## `$ github --stats`
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=stojkovskaj01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub Statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stojkovskaj01&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=stojkovskaj01&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</p>
+</p> -->
 
 
 ## `$ connect --with-me`
