@@ -56,9 +56,6 @@ I like exploring new technologies, creating applications and tools, developing s
 
 ### `$ echo "Thanks for visiting!"`
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat.;Thanks+for+stopping+by!" alt="Terminal Animation" />
-</p>
 
 <p align="center">
   <sub>Designed with curiosity and a passion for technology.</sub>
