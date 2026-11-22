@@ -14,42 +14,11 @@ I'm particularly interested in Artificial Intelligence and Machine Learning, whi
 
 I like exploring new technologies, creating applications and tools, developing small JavaScript games, and turning random ideas into functional projects.
 
-- 🎓 Software Engineering Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Exploring different areas of software development
-- 🎮 Enjoy creating small games and interactive projects with JavaScript
-- 🛠️ Building applications, tools, and side projects just for the fun of it
-- 🌱 Always learning, experimenting, and improving
-
----
-
-## `$ tech --list`
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" />
-</p>
-
-### Areas of Interest
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat-square&logo=openai&logoColor=A78BFA" />
-  <img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/Game_Development-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-</p>
+- Software Engineering Student
+- Interested in Artificial Intelligence & Machine Learning
+- Enjoy creating small games and interactive projects with JavaScript
+- Building applications, tools and side projects just for the fun of it
+- Always learning, experimenting and improving
 
 
 ### 02. Experiments & Side Projects
